@@ -1,0 +1,42 @@
+.Form {
+  margin: 130px 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+.Input {
+  background-color: #FFFFFF;
+  padding: 30px;
+  width: fit-content;
+  margin: auto;
+  max-width: 350px;
+  justify-content: center;
+  text-align: center;
+}
+
+.head {
+  color: darkslateblue;
+  margin: 10px;
+}
+
+.form-input {
+  width: 250px;
+  height: 40px;
+  outline: 0;
+  font-size: 1rem;
+  color: #595959;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  border: 1px solid darkslateblue;
+  border-radius: 5px;
+}
+
+.button {
+  width: 125px;
+  height: 40px;
+  font-size: 1.5rem;
+  outline: 0;
+  border: none;
+  color: white;
+  margin: 10px;
+  background-image: linear-gradient(230deg, #5570f4, #483d8b );
+}
